@@ -1,1 +1,3 @@
 ./conf/default.js
+node_modules
+.vscode
